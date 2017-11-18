@@ -23,3 +23,5 @@ Things to be done:
 2. Introduce differential pricing, ie change the value of unit rate while the code is running.
 
 The code of arduino and pi are given in the repository.
+
+Link: theemad.tk
